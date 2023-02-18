@@ -1,0 +1,20 @@
+{
+  "name": "task4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "1-test": "tsc && node di/test.js"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "xv": "^1.1.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
